@@ -2,6 +2,9 @@
 data/raw/
 data/processed/
 
+#Ignpore CSV datasets
+*.csv
+
 # Ignore models
 *.pth
 *.ckpt
